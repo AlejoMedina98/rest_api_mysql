@@ -1,0 +1,14 @@
+{
+  "name": "rest_api_mysql",
+  "version": "1.0.0",
+  "description": "Api Rest con NodeJS y MySQL from https://www.youtube.com/watch?v=-AoMh8lhgbs",
+  "main": "index.js",
+  "author": "Alejandro Medina",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0"
+  }
+}
